@@ -51,11 +51,14 @@ public class No1012 {
         que.offer(new int[]{i,j});
         visited[i][j] = 1;
 
+
         int ax,ay;
         int[] xy = new int[2];
+
         while (que.size() > 0){
 
             xy = que.pop();
+
             for(int l=0;l<h.length;++l){
                 ax = xy[0] + h[l];
                 ay = xy[1] + y[l];
