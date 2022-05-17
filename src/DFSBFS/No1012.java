@@ -51,7 +51,6 @@ public class No1012 {
         que.offer(new int[]{i,j});
         visited[i][j] = 1;
 
-
         int ax,ay;
         int[] xy = new int[2];
 
