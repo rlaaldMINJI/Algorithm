@@ -4,6 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Scanner;
 
+//유기농 배추
 public class No1012 {
 
     int T;
