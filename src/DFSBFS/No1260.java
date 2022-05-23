@@ -4,6 +4,7 @@ import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.Scanner;
 
+//DFSBFS STANDARD
 public class No1260 {
 
     public int N;
