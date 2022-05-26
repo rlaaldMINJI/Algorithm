@@ -13,6 +13,7 @@ public class No2178 {
     int[] y = {1,-1,0,0};
     int result;
 
+
     public void solve(){
         Scanner sc = new Scanner(System.in);
         N = sc.nextInt();
